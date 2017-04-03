@@ -1,18 +1,4 @@
 backend:
   name: github
-  repo: Energetics-Incorporated/gctc # Path to your Github repository
+  repo: Energetics-Incorporated/gctc
   branch: master
-  
-  media_folder: "static/img" # Media files will be stored in the repo under static/images/uploads  
-  public_folder: "img" # The src attribute for uploaded media will begin with /images/uploads
-  
-collections:
-- name: "pages"
-    label: "Pages"
-	create: true
-    files:
-      - file: "content/about.md"
-        label: "About"
-        name: "about"
-        fields:
-          - {label: Title, name: title, widget: string}

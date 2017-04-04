@@ -8,3 +8,14 @@
 .box-simple {
   min-height: 230px;
 }
+
+div#navbar {
+    min-height: 100px;
+}
+
+body {font-family: 'Open Sans', sans-serif;font-size:18px;line-height: 1.6;}
+h1, h2, h3, h4, h5 {font-family: 'Roboto Condensed', sans-serif;font-weight: 700;}
+.lead {font-size:28px;}
+.home-carousel h1 {font-size:68px;letter-spacing: normal;}
+.navbar ul.nav > li > a {font-size: 14px;}
+.home-carousel .owl-theme .owl-controls .owl-page span {background-color:#ccc;}

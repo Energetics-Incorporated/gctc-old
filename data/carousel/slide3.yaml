@@ -1,0 +1,10 @@
+weight: 3
+title: "Slide 3"
+description: >
+  <ul class="list-style-none">
+      <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+   <li>Vestibulum auctor dapibus neque.</li>
+   <li>Ut enim ad minim veniam</li>
+   <li>Duis aute irure dolor in reprehenderit</li>
+  </ul>
+image: "img/carousel/template-easy-customize.png"

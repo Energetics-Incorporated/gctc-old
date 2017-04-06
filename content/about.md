@@ -14,3 +14,4 @@ Because many of today's smart city/community development efforts are isolated an
 
 NIST, along with its partners, acts as a matchmaker and incubator —facilitating, advising, encouraging, nurturing, and publicizing the action clusters and their projects. Since the programs launched in September 2014, GCTC has recruited and incubated over 160 with participation from over 150 cities and 400 companies/organizations from around the world.
 
+<span class="highlight">For further information, contact the organizer, Dr. Sokwoo Rhee (<a href="mailto:sokwoo.rhee@nist.gov">sokwoo.rhee@nist.gov</a>), Associate Director, Cyber-Physical Systems Program, NIST.</span>

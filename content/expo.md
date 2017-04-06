@@ -13,7 +13,6 @@ type = "page"
 The 2017 Global City Teams Challenge (GCTC) Expo will bring together over 100 cities and communities in partnership with more than 300 companies, universities, non-profits, and federal government agencies to share and exhibit their smart city projects and the impacts to their communities.
 
 SuperClusters will announce smart city blueprints that document real-world examples and best practices among smart city plans and solutions gleaned from cities around the world. Over 100 action clusters will exhibit and present their projects.
-<img src="/uploads/2017/04/06/AdobeStock_22332317-2.jpg" style="float: left;">
 
 The Walter E. Washington Convention Center
 
@@ -21,7 +20,6 @@ The Walter E. Washington Convention Center
 
 <a class="customBtn" href="mailto:GCTCExpo@energetics.com?subject=RSVP | 2017 Global City Teams Challenge (GCTC) Expo&amp;body=Please RSVP with your name, title, and affiliation.">RVSP Now</a>
 
-**Registration is free**. To register for the event, please click on the RSVP button above. Please RSVP with your name, title, and affiliation. For general questions regarding the Global City Teams Challenge and/or Expo, click 
+**Registration is free**. To register for the event, please click on the RSVP button above. Please RSVP with your name, title, and affiliation. For general questions regarding the Global City Teams Challenge and/or Expo, click
+
 <a href="mailto:sokwoo.rhee@nist.gov?subject=General question about the 2017 Global City Teams Challenge (GCTC) Expo">here</a>.
-
-

@@ -39,3 +39,5 @@ ol, ul {padding-left:25px;}
 
 #footer {background: #196378;color:#fff;padding:0;margin-top:50px;border-bottom:1px solid #eee;}
 #copyright {background-color: #196378;color:#fff;}
+
+.customBtn {font-family: 'Roboto Condensed', sans-serif;font-weight: 700;font-size:34px;color:#fff;border-radius:2px;background:url(../img/btn-icon.png) right center no-repeat #3E9FBA;padding:10px 120px 10px 40px;}

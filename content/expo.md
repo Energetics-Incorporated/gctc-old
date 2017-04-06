@@ -6,8 +6,6 @@ title = "GLOBAL CITY TEAMS CHALLENGE EXPO 2017"
 type = "page"
 
 +++
-
-
 ### AUGUST 28-29 | THE WALTER E. WASHINGTON CONVENTION CENTER | WASHINGTON, DC
 
 The 2017 Global City Teams Challenge (GCTC) Expo will bring together over 100 cities and communities in partnership with more than 300 companies, universities, non-profits, and federal government agencies to share and exhibit their smart city projects and the impacts to their communities.

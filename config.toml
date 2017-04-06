@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Global City Team Challenge"
-baseURL = "/"
+baseURL = "http://sites.dev.eidev.com/gctc/"
 theme = "hugo-universal-theme"
 
 
@@ -21,16 +21,6 @@ theme = "hugo-universal-theme"
     identifier = "faq"
     url  = "/faq/"
     weight = 3
-
-[[menu.main]]
-    name = "Contact"
-    url  = "/contact/"
-    weight = 4
-
-[[menu.main]]
-    name = "Super Cluster"
-    url  = "/super-clusters/"
-    weight = 5	
 
 [params]
     viewMorePostLink = "/blog/"
@@ -57,22 +47,14 @@ theme = "hugo-universal-theme"
     # Enable the contact form by entering your Formspree.io email
     email = "cbuth@akimeka.com"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    # about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
     copyright = "Copyright (c) 2016 - 2017, Global City Team Challenge all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
-      </p>
-      """
+
     latitude = "-12.043333"
     longitude = "-77.028333"
 
@@ -91,14 +73,17 @@ theme = "hugo-universal-theme"
     # at 'exampleSite/data/carousel'.
     # For more informtion take a look at the README.
 
-[params.features]
+[params.aboutblurb]
     enable = true
+	
+[params.features]
+    enable = false
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
@@ -106,7 +91,7 @@ theme = "hugo-universal-theme"
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "fa fa-file-code-o"
     title = "Do you want to see more?"
     subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
@@ -118,10 +103,10 @@ theme = "hugo-universal-theme"
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Clients"
+    title = "Participating Members"
     subtitle = ""
 
 [params.recent_posts]
-    enable = true
+    enable = false
     title = "From our blog"
     subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."

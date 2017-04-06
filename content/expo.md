@@ -20,7 +20,11 @@ The Walter E. Washington Convention Center
 
 <a class="customBtn" href="mailto:GCTCExpo@energetics.com?subject=RSVP | 2017 Global City Teams Challenge (GCTC) Expo&amp;body=Please RSVP with your name, title, and affiliation.">RVSP Now</a>
 
-**Registration is free**. To register for the event, please click on the RSVP button above. Please RSVP with your name, title, and affiliation. For general questions regarding the Global City Teams Challenge and/or Expo, click 
-<a href="mailto:sokwoo.rhee@nist.gov?subject=General question about the 2017 Global City Teams Challenge (GCTC) Expo">here</a>.![](/static/uploads/2017/04/06/AdobeStock_22332317-9.jpg)
+**Registration is free**. To register for the event, please click on the RSVP button above. Please RSVP with your name, title, and affiliation. For general questions regarding the Global City Teams Challenge and/or Expo, click
+
+<a href="mailto:sokwoo.rhee@nist.gov?subject=General question about the 2017 Global City Teams Challenge (GCTC) Expo">here</a>.
+
+
+![](/gctc/uploads/2017/04/06/AdobeStock_22332317-10.jpg)
 
 

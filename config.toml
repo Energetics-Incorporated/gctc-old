@@ -3,7 +3,6 @@ title = "Global City Team Challenge"
 baseURL = "http://sites.dev.eidev.com/gctc/"
 theme = "hugo-universal-theme"
 
-
 [menu]
 
 [[menu.main]]
@@ -17,10 +16,14 @@ theme = "hugo-universal-theme"
     weight = 2
 
 [[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
+    name = "Action clusters and Superclusters"
+    url  = "/Action-clusters-and-Superclusters/"
     weight = 3
+	
+[[menu.main]]
+    name = "GCTC Expo"
+    url  = "/expo/"
+    weight = 4	
 
 [params]
     viewMorePostLink = "/blog/"

@@ -1,7 +1,6 @@
 +++
 categories = ""
 date = "2017-04-06T09:56:37-04:00"
-draft = true
 tags = ""
 title = "Action Clusters"
 type = "page"

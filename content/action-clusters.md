@@ -1,17 +1,20 @@
 +++
-categories = []
-tags = []
+categories = ""
 date = "2017-04-06T09:56:37-04:00"
+draft = true
+tags = ""
 title = "Action Clusters"
 type = "page"
+
 +++
+
 
 There are more than 200 organizations participating in GCTC smart city technology projects, called Action Clusters. These participants include representatives from U.S. cities and states, major cities in other countries, government agencies, private companies, non-profits, universities, hospitals, and a variety of municipal-focused organizations.
 
-Superclusters are composed of multiple, existing Action Clusters, enabling the teams to join forces and pursue shared objectives and common approaches for collaborative deployment across multiple communities/cities. Examples of grand challenges to be tackled include multi-city resilience to large-scale natural disasters, intelligent transportation systems that work in any city, and regional air quality improvements through coordinated local action.
+
 
 <table class="table">
-  <tr>
+  <tbody><tr>
  <th>Action Cluster</th>
  <th>Municipal governments</th>
  <th>Team Lead Nae</th>
@@ -659,4 +662,4 @@ Superclusters are composed of multiple, existing Action Clusters, enabling the t
  <td>andrea@teamdev.it; jmagen@interinnov.eu</td>
  <td>TeamDev (Italy), InterInnov (France), Technical University Madrid (Spain), University of Perugia (Italy)</td>
   </tr>
-</table>
+</tbody></table>

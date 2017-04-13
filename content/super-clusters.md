@@ -2,7 +2,7 @@
 categories = ""
 date = "2017-04-04T14:13:43Z"
 tags = ""
-title = "Super Clusters"
+title = "SuperClusters"
 type = "page"
 
 +++

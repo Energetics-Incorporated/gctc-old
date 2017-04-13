@@ -21,7 +21,7 @@ theme = "hugo-universal-theme"
     weight = 3
 	
 [[menu.main]]
-    name = "Super Clusters"
+    name = "SuperClusters"
     url  = "/super-clusters/"
     weight = 4
 	

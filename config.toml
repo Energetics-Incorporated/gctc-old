@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Global City Team Challenge"
-baseURL = "http://sites.dev.eidev.com/gctc/"
+baseURL = "https://boryyytoe.github.io/gctctest/"
 theme = "hugo-universal-theme"
 
 [menu]
@@ -14,21 +14,35 @@ theme = "hugo-universal-theme"
     name = "About"
     url  = "/about/"
     weight = 2
+	
+[[menu.main]]
+    name = "Partners"
+    url  = "/partners/"
+    weight = 3	
 
 [[menu.main]]
     name = "Action Clusters"
     url  = "/action-clusters/"
-    weight = 3
+    weight = 4
 	
 [[menu.main]]
     name = "SuperClusters"
     url  = "/super-clusters/"
-    weight = 4
+    weight = 5
 	
 [[menu.main]]
     name = "GCTC Expo"
-    url  = "/expo/"
-    weight = 5
+    url  = "#"
+	identifier = "expo"
+    weight = 6
+	
+[[menu.main]]
+    name = "About GCTC Expo"
+    url  = "/expo/about-gctc-expo"
+    weight = 7
+	parent = "expo"
+	
+	
 
 [params]
     viewMorePostLink = "/blog/"

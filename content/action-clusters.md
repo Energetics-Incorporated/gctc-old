@@ -9,75 +9,9 @@ type = "page"
 
 
 There are more than 200 organizations participating in GCTC smart city technology projects, called Action Clusters. These participants include representatives from U.S. cities and states, major cities in other countries, government agencies, private companies, non-profits, universities, hospitals, and a variety of municipal-focused organizations.
-<style type="text/css">
 
-table.tableizer-table {
 
-font-size: 20px;
-
-border: 1px solid #CCC;
-
-font-family: Arial, Helvetica, sans-serif;
-
-}
-
-.tableizer-table td {
-
-padding: 4px;
-
-margin: 3px;
-
-border: 1px solid #CCC;
-
-}
-
-.tableizer-table th {
-
-background-color: #104E8B;
-
-color: #FFF;
-
-font-weight: bold;
-
-}
-
-</style>
-
-<style type="text/css">
-
-table.tableizer-table {
-
-font-size: 13px;
-
-border: 1px solid #CCC;
-
-font-family: Arial, Helvetica, sans-serif;
-
-}
-
-.tableizer-table td {
-
-padding: 4px;
-
-margin: 3px;
-
-border: 1px solid #CCC;
-
-}
-
-.tableizer-table th {
-
-background-color: #104E8B;
-
-color: #FFF;
-
-font-weight: bold;
-
-}
-
-</style>
-
-<table class="tableizer-table">
+<table class="table">
 
 <thead><tr class="tableizer-firstrow"><th>Action Cluster</th><th>Municipal Governments</th><th>Members</th><th>Team Lead Name</th><th>Team Lead E-mail</th><th>Sector</th><th>Description</th><th>External Web Site</th></tr></thead><tbody>
 

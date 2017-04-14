@@ -1,4 +1,4 @@
-{{ if isset .Site.Params "aboutblurb" }}
+﻿{{ if isset .Site.Params "aboutblurb" }}
 {{ if .Site.Params.aboutblurb.enable }}
 {{ if gt (len .Site.Data.aboutblurb) 0 }}
 <section>            
@@ -8,7 +8,7 @@
                 <div class="item">
                     <div class="row">
                         <div class="col-sm-8">
-                            <h2>{{ .title }}</h2>
+                            <!-- <h2>{{ .title }}</h2> -->
                             {{ .description | safeHTML }}
                         </div>
                         

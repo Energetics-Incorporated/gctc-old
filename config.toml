@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Global City Team Challenge"
-baseURL = "https://boryyytoe.github.io/gctctest/"
+baseURL = "https://pages.nist.gov/GCTC/"
 theme = "hugo-universal-theme"
 
 [menu]

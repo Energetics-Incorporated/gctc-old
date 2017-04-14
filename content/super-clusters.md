@@ -11,5 +11,9 @@ type = "page"
 <p class=""><br></p>
 
 ## **SuperClusters are categorized into the following sectors:**
-<span style="font-size: 1rem;"><ol><li>Transportation<br></li><li>City data platform/Municipal Dashboards<br></li><li>Public Safety, Emergency Preparedness, Disaster Recovery, and Resilience<br></li><li>Energy, Utilities, Water, and Waste Management&nbsp;<br></li><li>Public WiFi<br></li><li>Healthcare<br></li></ol></span>
+
+<span style="font-size: 1rem;"></span>
+<span style="font-size: 1rem;"><ol><li>Transportation<br></li><li>City Data Platform/Municipal Dashboards<br></li><li>Public Safety, Emergency Preparedness, Disaster Recovery, and Resilience<br></li><li>Energy, Utilities, Water, and Waste Management&nbsp;<br></li><li>Public WiFi<br></li><li>Healthcare<br></li></ol></span>
+
+
 <p class=""><br></p>

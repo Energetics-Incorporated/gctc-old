@@ -3,7 +3,6 @@ title = "Global City Team Challenge"
 baseURL = "https://pages.nist.gov/GCTC/"
 theme = "hugo-universal-theme"
 
-[menu]
 
 [[menu.main]]
     name = "Home"
@@ -31,16 +30,43 @@ theme = "hugo-universal-theme"
     weight = 5
 	
 [[menu.main]]
-    name = "GCTC Expo"
+    name = "Event"
     url  = "#"
-	identifier = "expo"
+	identifier = "event"
     weight = 6
 	
 [[menu.main]]
-    name = "About GCTC Expo"
-    url  = "/expo/about-gctc-expo"
+    name = "GCTC EXPO 2017"
+    url  = "/event/gctc-expo-2017"
     weight = 7
-	parent = "expo"
+	parent = "event"
+	
+	
+
+[[menu.expomenu]]
+	name = "Agenda"
+	url = "/event/gctc-expo-2017/agenda"
+	weight = 1
+	
+[[menu.expomenu]]
+	name = "Exhibit"
+	url = "/event/gctc-expo-2017/exhibit"
+	weight = 2
+
+[[menu.expomenu]]
+	name = "Logistics"
+	url = "/event/gctc-expo-2017/logistics"
+	weight = 3
+
+[[menu.expomenu]]
+	name = "News"
+	url = "/event/gctc-expo-2017/news"
+	weight = 4
+
+[[menu.expomenu]]
+	name = "Expo Presentations"
+	url = "/event/gctc-expo-2017/expo-presentations"
+	weight = 5	
 	
 	
 
@@ -98,6 +124,9 @@ theme = "hugo-universal-theme"
 [params.aboutblurb]
     enable = true
 	
+[params.governments]
+    enable = true
+	
 [params.features]
     enable = false
     # All features are defined in their own files. You can find example items
@@ -121,11 +150,11 @@ theme = "hugo-universal-theme"
     link_text = "Check other homepages"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Participating Members"
+    title = "Participating Municipal Governments"
     subtitle = ""
 
 [params.recent_posts]

@@ -50,6 +50,7 @@ ol, ul {padding-left:25px;}
 td {
     word-break: break-word;
 }
+.table th:nth-child(5), .table td:nth-child(5) { display:none; }
 
 ul#expoNav {
     background: #3FA2BD;

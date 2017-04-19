@@ -6,8 +6,6 @@ title = "SuperClusters"
 type = "page"
 
 +++
-
-
 A SuperCluster is a collaboration of Action Clusters with participation from additional individual entities. This approach enables project teams to join forces and pursue shared objectives and common approaches for collaborative deployment across multiple communities/cities. Examples of grand challenges to be tackled include multi-city resilience to large-scale natural disasters, intelligent transportation systems that work in any city, and regional air quality improvements through coordinated local action. SuperClusters are categorized into five sectors.
 
 
@@ -20,10 +18,10 @@ This supercluster was formed and is managed by forward looking municipalities in
 ### Co-Chars:
 
 
-Wilfred Pinfold, CEO, Urban Systems![](/gctc/uploads/2017/04/19/Wilfred_Pinfold.png)
+Wilfred Pinfold, CEO, Urban Systems![](/GCTC/uploads/2017/04/19/Wilfred_Pinfold.png)
 
 
-Skip Newbery, President and CEO, Technology Associates of Oregon![](/gctc/uploads/2017/04/19/skip_newberry.jpeg)
+Skip Newbery, President and CEO, Technology Associates of Oregon![](/GCTC/uploads/2017/04/19/skip_newberry.jpeg)
 
 
 ### Leadership Team:
@@ -39,7 +37,7 @@ The cities of Kansas City, Missouri and Bellevue, Washington are teaming with 20
 
 ### Chair:
 
-Bob Bennett, Chief Innovation Officer, Kansas City, MO![](/gctc/uploads/2017/04/19/Bob%20Bennett%203-1.jpg)
+Bob Bennett, Chief Innovation Officer, Kansas City, MO![](/GCTC/uploads/2017/04/19/Bob%20Bennett%203-1.jpg)
 
 ### Leadership Team:
 
@@ -51,7 +49,7 @@ The Public Safety SuperCluster (PSSC) of the US Ignite-sponsored Global City Tea
 
 ### Chair:
 
-Michael Dunaway, Director, NIMSAT, Informatics Research Institute (IRI), University of Louisiana at Lafayette![](/gctc/uploads/2017/04/19/Michael%20Dunaway.jpg)
+Michael Dunaway, Director, NIMSAT, Informatics Research Institute (IRI), University of Louisiana at Lafayette![](/GCTC/uploads/2017/04/19/Michael%20Dunaway.jpg)
 
 
 
@@ -74,7 +72,7 @@ Objectives for the Utility SuperCluster include:
 
 ### Chair:
 
-Ed Davalos, Director of Internet of Things and Smart Cities, AT&T![](/gctc/uploads/2017/04/19/Ed%20Davalos%20-%20Pic%201.1.gif)
+Ed Davalos, Director of Internet of Things and Smart Cities, AT&T![](/GCTC/uploads/2017/04/19/Ed%20Davalos%20-%20Pic%201.1.gif)
 
 ### Leadership Team:
 
@@ -90,34 +88,12 @@ By collecting, analyzing, and reporting this information in aggregate, the Publi
 
 ### Co-chairs:
 
-David Witkowski, Executive Director, Wireless Communications Initiative, Joint Venture Silicon Valley![](/gctc/uploads/2017/04/19/David%20Witkowski_Jacket_1920_1920-1.jpg)
+David Witkowski, Executive Director, Wireless Communications Initiative, Joint Venture Silicon Valley![](/GCTC/uploads/2017/04/19/David%20Witkowski_Jacket_1920_1920-1.jpg)
 
-Jon Walton, Chief Information Officer, San Mateo County, CA![](/gctc/uploads/2017/04/19/JonWalton%20Image-2.jpeg)
+Jon Walton, Chief Information Officer, San Mateo County, CA![](/GCTC/uploads/2017/04/19/JonWalton%20Image-2.jpeg)
 
-Tony Batalla, IT Manager/Director, City of San Leandro, CA![](/gctc/uploads/2017/04/19/Tony_Battala.jpg)
+Tony Batalla, IT Manager/Director, City of San Leandro, CA![](/GCTC/uploads/2017/04/19/Tony_Battala.jpg)
 
 ### Leadership Team:
 
 San Mateo County CA, City of San Leandro CA, City of Schenectady NY, Joint Venture Silicon Valley, Ruckus Wireless, Sensity/Verizon, Smart Connections LLC, Oku Solutions LLC, National Telecommunications and Information Administration
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

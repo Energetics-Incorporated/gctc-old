@@ -13,34 +13,34 @@ theme = "hugo-universal-theme"
     name = "About"
     url  = "/about/"
     weight = 2
-	
-[[menu.main]]
-    name = "Partners"
-    url  = "/partners/"
-    weight = 3	
 
-[[menu.main]]
-    name = "Action Clusters"
-    url  = "/action-clusters/"
-    weight = 4
-	
-[[menu.main]]
-    name = "SuperClusters"
-    url  = "/super-clusters/"
-    weight = 5
-	
 [[menu.main]]
     name = "Event"
     url  = "#"
 	identifier = "event"
+    weight = 3
+	
+[[menu.main]]
+    name = "Partners"
+    url  = "/partners/"
+    weight = 4	
+
+[[menu.main]]
+    name = "Action Clusters"
+    url  = "/action-clusters/"
+    weight = 5
+	
+[[menu.main]]
+    name = "SuperClusters"
+    url  = "/super-clusters/"
     weight = 6
+	
 	
 [[menu.main]]
     name = "GCTC EXPO 2017"
     url  = "/event/gctc-expo-2017"
     weight = 7
 	parent = "event"
-	
 	
 
 [[menu.expomenu]]

@@ -4,6 +4,7 @@ date = "2017-04-04T14:13:43Z"
 tags = []
 title = "SuperClusters"
 type = "page"
+layout = "supercluster"
 
 +++
 A SuperCluster is a collaboration of Action Clusters with participation from additional individual entities. This approach enables project teams to join forces and pursue shared objectives and common approaches for collaborative deployment across multiple communities/cities. Examples of grand challenges to be tackled include multi-city resilience to large-scale natural disasters, intelligent transportation systems that work in any city, and regional air quality improvements through coordinated local action. SuperClusters are categorized into five sectors.

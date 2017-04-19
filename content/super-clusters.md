@@ -1,7 +1,6 @@
 +++
 categories = []
 date = "2017-04-04T14:13:43Z"
-draft = true
 layout = "supercluster"
 tags = []
 title = "SuperClusters"
@@ -10,10 +9,7 @@ type = "page"
 +++
 
 
-A SuperCluster is a collaboration of Action Clusters with participation from additional individual entities. This approach enables project teams to join forces and pursue shared objectives and common approaches for collaborative deployment across multiple communities/cities. Examples of grand challenges to be tackled include multi-city resilience to large-scale natural disasters, intelligent transportation systems that work in any city, and regional air quality improvements through coordinated local action. SuperClusters are categorized into five sectors.
-
-
-## Transportation SuperCluster (TSC)
+<span style="color: rgb(40, 40, 40); font-size: 2.1em; word-spacing: 0.5px;">Transportation SuperCluster (TSC)</span>
 
 
 This supercluster was formed and is managed by forward looking municipalities interested in preparing their infrastructure for new technologies that look set to provide better, more equitable services at lower cost. It explores the opportunities provided by first and last mile vehicles including shared, low speed and autonomous. It explores the opportunities for building vibrant communities around transfer points and mobility hubs and it addresses how these vehicles and hubs can play a role in the last mile delivery of packages and other freight. To support these opportunities the supercluster works with teams developing new and advanced transportation models and environmental sensors that allow both the prediction of probable outcomes and the measurement of actual outcomes of introducing these technologies. Finally the supercluster works with teams implementing a smart citySDK to ensure the portability and interchangeability of solutions and propose regulatory and policy changes that support the safe deployment of these technologies.
@@ -25,7 +21,11 @@ This supercluster was formed and is managed by forward looking municipalities in
 **Wilfred Pinfold, CEO, Urban Systems**![](/GCTC/uploads/2017/04/19/Wilfred_Pinfold.png)
 
 
+
+
 **Skip Newbery, President and CEO, Technology Associates of Oregon**![](/GCTC/uploads/2017/04/19/skip_newberry.jpeg)
+
+
 
 
 ### Leadership Team:
@@ -46,6 +46,8 @@ The cities of Kansas City, Missouri and Bellevue, Washington are teaming with 20
 **Bob Bennett, Chief Innovation Officer, Kansas City, MO**![](/GCTC/uploads/2017/04/19/Bob%20Bennett%203-1.jpg)
 
 
+
+
 ### Leadership Team:
 
 
@@ -62,6 +64,8 @@ The Public Safety SuperCluster (PSSC) of the US Ignite-sponsored Global City Tea
 
 
 **Michael Dunaway, Director, NIMSAT, Informatics Research Institute (IRI), University of Louisiana at Lafayette**![](/GCTC/uploads/2017/04/19/Michael%20Dunaway.jpg)
+
+
 
 
 ### Leadership Team:
@@ -98,6 +102,8 @@ Objectives for the Utility SuperCluster include:
 **Ed Davalos, Director of Internet of Things and Smart Cities, AT&T**![](/GCTC/uploads/2017/04/19/Ed%20Davalos%20-%20Pic%201.1.gif)
 
 
+
+
 ### Leadership Team:
 
 
@@ -122,10 +128,16 @@ By collecting, analyzing, and reporting this information in aggregate, the Publi
 **David Witkowski, Executive Director, Wireless Communications Initiative, Joint Venture Silicon Valley**![](/GCTC/uploads/2017/04/19/David%20Witkowski_Jacket_1920_1920-1.jpg)
 
 
+
+
 **Jon Walton, Chief Information Officer, San Mateo County, CA**![](/GCTC/uploads/2017/04/19/JonWalton%20Image-2.jpeg)
 
 
+
+
 **Tony Batalla, IT Manager/Director, City of San Leandro, CA**![](/GCTC/uploads/2017/04/19/Tony_Battala.jpg)
+
+
 
 
 ### Leadership Team:

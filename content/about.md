@@ -1,6 +1,5 @@
 +++
 date = "2017-04-03T10:58:28-04:00"
-draft = true
 title = "About GCTC"
 type = "page"
 

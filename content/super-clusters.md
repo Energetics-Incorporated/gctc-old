@@ -1,7 +1,6 @@
 +++
 categories = []
 date = "2017-04-04T14:13:43Z"
-draft = true
 tags = []
 title = "SuperClusters"
 type = "page"

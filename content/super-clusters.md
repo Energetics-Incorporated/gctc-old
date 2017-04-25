@@ -7,9 +7,7 @@ title = "SuperClusters"
 type = "page"
 
 +++
-
-
-<span style="color: rgb(40, 40, 40); font-size: 2.1em; word-spacing: 0.5px;">Transportation SuperCluster (TSC)</span>
+## Transportation SuperCluster (TSC)
 
 
 This supercluster was formed and is managed by forward looking municipalities interested in preparing their infrastructure for new technologies that look set to provide better, more equitable services at lower cost. It explores the opportunities provided by first and last mile vehicles including shared, low speed and autonomous. It explores the opportunities for building vibrant communities around transfer points and mobility hubs and it addresses how these vehicles and hubs can play a role in the last mile delivery of packages and other freight. To support these opportunities the supercluster works with teams developing new and advanced transportation models and environmental sensors that allow both the prediction of probable outcomes and the measurement of actual outcomes of introducing these technologies. Finally the supercluster works with teams implementing a smart citySDK to ensure the portability and interchangeability of solutions and propose regulatory and policy changes that support the safe deployment of these technologies.

@@ -7,13 +7,15 @@ title = "SuperClusters"
 type = "page"
 
 +++
+
+
 ## Transportation SuperCluster (TSC)
 
 
 This supercluster was formed and is managed by forward looking municipalities interested in preparing their infrastructure for new technologies that look set to provide better, more equitable services at lower cost. It explores the opportunities provided by first and last mile vehicles including shared, low speed and autonomous. It explores the opportunities for building vibrant communities around transfer points and mobility hubs and it addresses how these vehicles and hubs can play a role in the last mile delivery of packages and other freight. To support these opportunities the supercluster works with teams developing new and advanced transportation models and environmental sensors that allow both the prediction of probable outcomes and the measurement of actual outcomes of introducing these technologies. Finally the supercluster works with teams implementing a smart citySDK to ensure the portability and interchangeability of solutions and propose regulatory and policy changes that support the safe deployment of these technologies.
 
 
-### Co-Chars:
+### Co-Chairs:
 
 
 **Wilfred Pinfold, CEO, Urban Systems**![](/GCTC/uploads/2017/04/19/Wilfred_Pinfold.png)
@@ -55,7 +57,7 @@ Kansas City MO, City of Bellevue WA, KC Digital Drive, ThinkBig Pargners, Cisco,
 ## Public Safety SuperCluster (PSSC)
 
 
-The Public Safety SuperCluster (PSSC) of the US Ignite-sponsored Global City Teams Challenge is a public-private partnership dedicated to identifying technologies, processes and strategies from among GCTC members to enhance public safety and resilience within smart connected communities, and improve the preparedness, response and recovery of modern society from the complex challenges, hazards and risks that threaten local and regional stability. The broad goal of the PSSC is to develop, integrate and pilot technology applications and test new operating procedures and employment methods in collaboration with first responders, public safety officials, and government agencies, to improve situational awareness before, during, and after an incident or civil emergency in order to protect human life, maintain community functions and infrastructure, and ensure public safety.  Moreover, the PSSC aims to improve policies and procedures for integration of advanced communications methods and decision systems to enhance interagency planning and coordination of resources within smart and connected communities. The PSSC focuses specific attention on the integration of current and future Internet of Things (IoT) technologies to build resilience and sustainability into the technology ecosystem that comprises smart, connected communities.  The PSSC was launched in 2016 by GCTC member communities engaged in developing public-safety focused technologies, and is currently open to membership by all communities, private sector enterprises, non-governmental organizations, and government agencies (at all levels), who share an interes in addressing current and future challenges in public safety, disaster preparedness, and community resilience through the development and integration of advanced technologies.
+The Public Safety SuperCluster (PSSC) of the US Ignite-sponsored Global City Teams Challenge is a public-private partnership dedicated to identifying technologies, processes and strategies from among GCTC members to enhance public safety and resilience within smart connected communities, and improve the preparedness, response and recovery of modern society from the complex challenges, hazards and risks that threaten local and regional stability. The broad goal of the PSSC is to develop, integrate and pilot technology applications and test new operating procedures and employment methods in collaboration with first responders, public safety officials, and government agencies, to improve situational awareness before, during, and after an incident or civil emergency in order to protect human life, maintain community functions and infrastructure, and ensure public safety.  Moreover, the PSSC aims to improve policies and procedures for integration of advanced communications methods and decision systems to enhance interagency planning and coordination of resources within smart and connected communities. The PSSC focuses specific attention on the integration of current and future Internet of Things (IoT) technologies to build resilience and sustainability into the technology ecosystem that comprises smart, connected communities.  The PSSC was launched in 2016 by GCTC member communities engaged in developing public-safety focused technologies, and is currently open to membership by all communities, private sector enterprises, non-governmental organizations, and government agencies (at all levels), who share an interest in addressing current and future challenges in public safety, disaster preparedness, and community resilience through the development and integration of advanced technologies.
 
 
 ### Chair:

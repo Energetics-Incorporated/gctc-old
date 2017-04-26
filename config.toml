@@ -2,7 +2,8 @@ languageCode = "en-us"
 title = "Global City Team Challenge"
 baseURL = "https://pages.nist.gov/GCTC/"
 theme = "hugo-universal-theme"
-
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "UA-98010590-1"
 
 [[menu.main]]
     name = "Home"
@@ -11,11 +12,24 @@ theme = "hugo-universal-theme"
 
 [[menu.main]]
     name = "About"
-    url  = "/about/"
+    url  = "#"
+	identifier = "about"
     weight = 2
+	
+[[menu.main]]
+    name = "The GCTC"
+    url  = "/about/the-gctc"
+    weight = 8
+	parent = "about"
+	
+[[menu.main]]
+    name = "Participation Guide"
+    url  = "/about/participation-guide"
+    weight = 9
+	parent = "about"	
 
 [[menu.main]]
-    name = "Event"
+    name = "Events"
     url  = "#"
 	identifier = "event"
     weight = 3
@@ -26,15 +40,14 @@ theme = "hugo-universal-theme"
     weight = 4	
 
 [[menu.main]]
-    name = "Action Clusters"
-    url  = "/action-clusters/"
-    weight = 5
-	
-[[menu.main]]
     name = "SuperClusters"
     url  = "/super-clusters/"
-    weight = 6
-	
+    weight = 5
+
+[[menu.main]]
+    name = "Action Clusters"
+    url  = "/action-clusters/"
+    weight = 6	
 	
 [[menu.main]]
     name = "GCTC EXPO 2017"
@@ -49,7 +62,7 @@ theme = "hugo-universal-theme"
 	weight = 1
 	
 [[menu.expomenu]]
-	name = "Exhibit"
+	name = "Exhibits"
 	url = "/event/gctc-expo-2017/exhibit"
 	weight = 2
 
@@ -128,7 +141,7 @@ theme = "hugo-universal-theme"
     enable = true
 	
 [params.features]
-    enable = false
+    enable = true
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.

@@ -25,6 +25,6 @@ The [GCTC 2017 Expo](https://pages.nist.gov/GCTC/event/gctc-expo-2017/) will be 
 
 In this year's Expo, several SuperClusters will be highlighted as well as action clusters. For those who are not familiar with SuperClusters, they are alliances of action clusters and relevant additional stakeholders grouped into sectors. Currently, there are five official SuperClusters; (1) transportation (2) city data platform (3) public safety (4) energy/water/waste (5) public WiFi and two additional SuperClusters under construction (Healthcare and Data Governance). Each SuperCluster will be given a dedicated exhibit space and a plenary speaking slot. With the given exhibit space, each action cluster has a choice to set up their own booth (unaffiliated), join their space with a SuperCluster of choice (affiliated), or do both. If you feel that your action cluster is closely aligned with a SuperCluster and want to join your exhibit space with a specific SuperCluster, please reach out to the SuperCluster chairs to place your space as part of the SuperCluster Pavilion. (The contact info of the chairs can be found [here](https://docs.google.com/spreadsheets/d/1a697VZZElvLgYISq0ukHhLsK556HQPcdIt_IG6gTPfM/edit?usp=sharing).)
 
-![GCTC Structure](/img/gctc-structure.png)
+![GCTC Structure](/GCTC/img/gctc-structure.png)
 
 Note that an independent exhibit space and a presentation slot are given to Layers 1-3. Individual entities in Layer 4 can be part of a SuperCluster exhibit/presentation, but no independent space/presentation slot is provided.

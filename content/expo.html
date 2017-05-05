@@ -1,6 +1,9 @@
-<!doctype html>
-<html lang="en">
-<head>
++++
+draft = true
+title = ""
+type = "page"
+
++++
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -48,9 +51,9 @@
 	
 	footer {background-color: #000;height:55px;}
 </style>
-</head>
 
-<body>
+
+
 <header class="nist-header">
 	<h1>
 	  <a class="nist-logo" href="http://www.nist.gov/cps" title="Go to nist.gov">National Institute of Standards and Technology</a>
@@ -69,8 +72,8 @@
         <div class="container">
             <div class="navbar-header">
                 <a class="navbar-brand home" href="{{ .Site.BaseURL }}">
-                    <img src="{{ .Site.BaseURL }}img/GCTC_logo_344x80.png" alt="{{ .Title }} logo" class="hidden-xs hidden-sm">
-                    <img src="{{ .Site.BaseURL }}img/GCTC_logo-small.png" alt="{{ .Title }} logo" class="visible-xs visible-sm">
+                    <img src="%7B%7B%20.Site.BaseURL%20%7D%7Dimg/GCTC_logo_344x80.png" alt="{{ .Title }} logo" class="hidden-xs hidden-sm">
+                    <img src="%7B%7B%20.Site.BaseURL%20%7D%7Dimg/GCTC_logo-small.png" alt="{{ .Title }} logo" class="visible-xs visible-sm">
                     <span class="sr-only">{{ .Title }} - {{ i18n "navHome" }}</span>
                 </a>
                 <div class="navbar-buttons">
@@ -104,7 +107,7 @@
 
             <div class="collapse clearfix" id="search">
 
-                <form class="navbar-form" role="search">
+                
                     <div class="input-group">
                         <input type="text" class="form-control" placeholder="Search">
                         <span class="input-group-btn">
@@ -113,7 +116,7 @@
 
                 </span>
                     </div>
-                </form>
+                
 
             </div>
             <!--/.nav-collapse -->
@@ -144,7 +147,7 @@
 	<div class="row">
 		<div class="col-md-6 col-md-offset-3">
 			<p class="lead">The 2017 Global City Teams Challenge (GCTC) Expo will bring together over 100 cities and communities in partnership with more than 300 companies, universities, non-profits, and federal government agencies to share and exhibit their smart city projects and the impacts to their communities.</p>
-			<p>SuperClusters will announce smart city blueprints that document real-world examples and best practices among smart city plans and solutions gleaned from cities around the world. Over 100 action clusters will exhibit and present their projects.</p>
+			<p>Over 100 action clusters will exhibit and present their projects.  SuperClusters will announce smart city blueprints that document real-world examples and best practices among smart city plans and solutions gleaned from cities around the world. Visit <a href="https://pages.nist.gov/GCTC/about/participation-guide/">GCTC Participation Guide</a>  if you want to create a new action cluster to exhibit and speak at the event.</p>
 		</div>
 	</div>
 </div>
@@ -160,7 +163,7 @@
 				<p style="margin: 0;padding:0;"><small>801 Mt. Vernon Place NW, Washington, DC, USA</small></p>
 			</div>
 			<div style="overflow: hidden;padding: 40px;color:#181818;">
-				<p><a class="customBtn" href="mailto:GCTCExpo@energetics.com?subject=RSVP | 2017 Global City Teams Challenge (GCTC) Expo&body=Please RSVP with your name, title, and affiliation.">RVSP Now</a></p>
+				<p><a class="customBtn" href="mailto:GCTCExpo@energetics.com?subject=RSVP | 2017 Global City Teams Challenge (GCTC) Expo&amp;body=Please RSVP with your name, title, and affiliation.">RVSP Now</a></p>
 				<p><strong>Registration is free</strong>. To register for the event, please click on the RSVP button above. Please RSVP with your name, title, and affiliation. For general questions regarding the Global City Teams Challenge and/or Expo, click <a href="mailto:sokwoo.rhee@nist.gov?subject=General question about the 2017 Global City Teams Challenge (GCTC) Expo">here</a>. </p>
 			</div>
 		</div>		
@@ -174,15 +177,13 @@
 <p style="color:#777;font-size:12px;line-height:110%;padding-top:20px;padding-left:50px;padding-right:50px;padding-bottom:10px;">
 PLEASE NOTE: This is a collaborative website. NIST does not endorse the views expressed, or necessarily concur with the information presented on these sites. Further, NIST does not endorse any commercial products that may be mentioned on these sites. All the material on this website is in the public domain and is intended for unrestricted use by interested parties, including any text, diagrams, or images, unless indicated explicitly.
 <br><br>Don't share anything on this site that you do not want to be public. Do not post any proprietary documents, information or data Anything placed on this site is considered public disclosure and it shall be deemed to have been disclosed on a non-confidential basis, without any restrictions on use by anyone, except that no valid copyright or patent right shall be deemed to have been waived by such disclosure. 
-<br><br>Certain commercial equipment, instruments, materials, systems, software, and trade names may be identified throughout this site in order to specify or identify technologies adequately. Such identification is not intended to imply recommendation or endorsement by NIST or any other party, nor is it intended to imply that the systems or products identified are necessarily the best available for the purpose. All data and other information posted on this site is provided as a public service and is provided “AS IS.”  NIST MAKES NO WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR STATUTORY, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT AND DATA ACCURACY.  
+<br><br>Certain commercial equipment, instruments, materials, systems, software, and trade names may be identified throughout this site in order to specify or identify technologies adequately. Such identification is not intended to imply recommendation or endorsement by NIST or any other party, nor is it intended to imply that the systems or products identified are necessarily the best available for the purpose. All data and other information posted on this site is provided as a public service and is provided ï¿½AS IS.ï¿½  NIST MAKES NO WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR STATUTORY, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT AND DATA ACCURACY.  
 <br><br>By selecting external links, you will be leaving NIST webspace. Links to other websites are provided because they may have information that would be of interest to you. No inferences should be drawn on account of other sites being referenced, or not, from this page. There may be other websites that are more appropriate for your purpose.
 <br><a href="http://www.nist.gov/public_affairs/privacy.cfm#privpolicy">Privacy Policy</a> | <a href="http://www.nist.gov/public_affairs/privacy.cfm#secnot">Security Notice</a> | <a href="http://www.nist.gov/public_affairs/privacy.cfm#accesstate">Accessibility Statement</a> | <a href="mailto:sgwikisupport@nist.gov?subject=Feedback%20on%20NistPagesTemplate%20Web%20Site">Send feedback</a>
 
 </p>
 </div>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script type="null"></script>
 <!-- Latest compiled and minified JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-</body>
-</html>
+<script type="null"></script>

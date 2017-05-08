@@ -1,7 +1,7 @@
 +++
 categories = []
 date = "2017-04-04T14:13:43Z"
-draft = true
+draft = false
 layout = "supercluster"
 tags = []
 title = "SuperClusters"
@@ -10,7 +10,7 @@ type = "page"
 +++
 
 
-## A SuperCluster is a multi-city, multi-stakeholder collaboration organized around common project objectives and shared solutions. <span style="font-size: 2.1em;">Committed cities/communities and partners jointly tackle shared issues – develop and deploy shares solutions to create economies of scale.</span> <span style="font-size: 2.1em;">Each SuperCluster produces&nbsp;</span><span style="font-size: 2.1em;">blueprint/playbook to be used by cities and communities around the world as the foundation to build their own smart city strategies.&nbsp;</span> <span style="font-size: 2.1em;">A SuperCluster is an alliance of action clusters in the same sector, and may be joined by individual entities that do not belong to a specific action cluster.&nbsp;</span>
+A SuperCluster is a multi-city, multi-stakeholder collaboration organized around common project objectives and shared solutions. Committed cities/communities and partners jointly tackle shared issues – develop and deploy shares solutions to create economies of scale. Each SuperCluster produces blueprint/playbook to be used by cities and communities around the world as the foundation to build their own smart city strategies. A SuperCluster is an alliance of action clusters in the same sector, and may be joined by individual entities that do not belong to a specific action cluster.
 
 ## Transportation SuperCluster (TSC)
 

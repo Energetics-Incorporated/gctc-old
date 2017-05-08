@@ -1,8 +1,8 @@
 +++
 categories = []
 date = "2017-04-17T12:41:52-04:00"
-draft = true
-layout = "expo"
+draft = false
+layout = "agenda"
 tags = []
 title = "agenda"
 type = "page"

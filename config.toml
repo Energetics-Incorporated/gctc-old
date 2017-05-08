@@ -19,40 +19,41 @@ googleAnalytics = "UA-98010590-1"
 [[menu.main]]
     name = "The GCTC"
     url  = "/about/the-gctc"
-    weight = 8
+    weight = 7
 	parent = "about"
 	
 [[menu.main]]
     name = "Participation Guide"
     url  = "/about/participation-guide"
-    weight = 9
+    weight = 8
 	parent = "about"	
-
+	
+[[menu.main]]
+    name = "Partners"
+    url  = "/about/partners/"
+    weight = 9
+	parent = "about"
+	
 [[menu.main]]
     name = "Events"
     url  = "#"
 	identifier = "event"
     weight = 3
-	
-[[menu.main]]
-    name = "Partners"
-    url  = "/partners/"
-    weight = 4	
 
 [[menu.main]]
     name = "SuperClusters"
     url  = "/super-clusters/"
-    weight = 5
+    weight = 4
 
 [[menu.main]]
     name = "Action Clusters"
     url  = "/action-clusters/"
-    weight = 6	
+    weight = 5
 	
 [[menu.main]]
     name = "GCTC EXPO 2017"
     url  = "/event/gctc-expo-2017"
-    weight = 7
+    weight = 6
 	parent = "event"
 	
 

@@ -1,7 +1,7 @@
 +++
 categories = []
 date = "2017-04-26T09:44:06-04:00"
-draft = true
+draft = false
 tags = []
 title = "participation guide"
 type = "page"
@@ -11,7 +11,7 @@ type = "page"
 
 ### Global City Teams Challenge (GCTC) Participation Guide - How to create an action cluster and exhibit/speak at the Expo
 
-To create an action cluster, each team must complete and submit a project worksheet. The worksheet template can be downloaded [here](https://drive.google.com/file/d/0B8nL0SuAAnfXWnFHLUdTRVpNMEE/view?usp=sharing) and a fictitious example can be downloaded [here](https://drive.google.com/file/d/0B8nL0SuAAnfXdmhXajNmSHVZUW8/view?usp=sharing). The submitted worksheet will be reviewed and accepted once verified to meet all the requirements. Complete and email the worksheet to [gctcinfo@nist.gov](mailto:gctcinfo@nist.gov). GCTC organizers will then review the worksheet and send feedback to the team lead. The requirements to form an action cluster are as follows:
+To create an action cluster, each team must complete and submit a project worksheet. The worksheet template can be downloaded [here](https://drive.google.com/file/d/0B8nL0SuAAnfXWnFHLUdTRVpNMEE/view?usp=sharing) and a fictitious example can be downloaded [here](https://drive.google.com/file/d/0B8nL0SuAAnfXdmhXajNmSHVZUW8/view?usp=sharing). The submitted worksheet will be reviewed and accepted once verified to meet all the requirements. Complete and email the worksheet to [gctcinfo@nist.gov](mailto:gctcinfo@nist.gov). GCTC organizers will then review the worksheet and send feedback to the team lead. **_To be considered for an exhibit space and speaking opportunity at the [GCTC Expo 2017](https://pages.nist.gov/GCTC/event/gctc-expo-2017/), a new action cluster must submit the worksheet by June 6, 2017._**  The requirements to form an action cluster are as follows:
 
 1. Each team (i.e. action cluster) needs to have at least 2 entities, at least one of them being a municipal government participant which will deploy the smart city solution. (At least one city official should be listed as a team member in the worksheet and participate in the team.) In most of the cases, an action cluster is composed of more than 2 entities, including multiple technology providers and sometimes multiple cities and communities.
 
@@ -25,7 +25,7 @@ The [GCTC 2017 Expo](https://pages.nist.gov/GCTC/event/gctc-expo-2017/) will be 
 
 1. Each action cluster is offered an exhibit space free of charge (8x8 or 10x10, exact size TBD). (Note that the space is provided free of charge, but you will need to cover the cost to build your booth. Details will be provided to the team lead.)
 
-1. Each action cluster is eligible for a speaking slot. If there is excessive demand, priority will be given to the action clusters that are joined by city official(s) as part of the presentation and the exhibit.
+1. Each action cluster is eligible for a speaking slot. If there is excessive demand, priority will be given to the action clusters that are joined by city official(s) as part of the presentation and build an exhibit booth.
 
 1. The event has no registration fee and open to all registered attendees. Participating action clusters should encourage as many of their contacts to attend the Expo as possible.
 
@@ -36,4 +36,3 @@ In this year's Expo, several SuperClusters will be highlighted as well as action
 ![](/GCTC/uploads/2017/04/27/20170425%20GCTC%202017%20Structure%20diagram.jpg)
 
 Note that an independent exhibit space and a presentation slot are given to Layers 1-3. Individual entities in Layer 4 can be part of a SuperCluster exhibit/presentation, but no independent space/presentation slot is provided.
-

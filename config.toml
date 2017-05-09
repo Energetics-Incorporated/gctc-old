@@ -137,10 +137,6 @@ googleAnalytics = "UA-98010590-1"
 
 [params.aboutblurb]
     enable = true
-	title = "About"
-	description = ""
-	goaltitle = ""
-	goaldescription = ""
 	
 [params.governments]
     enable = true

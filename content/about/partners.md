@@ -21,7 +21,6 @@ type = "page"
 	<a class="inlineBlock" href="https://www.transportation.gov/"><img alt="DOT" src="/GCTC/uploads/2017/06/09/DOT.png"></a>
 	<a class="inlineBlock" href="https://www.state.gov/"><img alt="DOS" src="/GCTC/uploads/2017/06/09/DOS.png"></a>
 	<a class="inlineBlock" href="https://www.nitrd.gov/"><img alt="NITRD" src="/GCTC/uploads/2017/06/09/NITRD.png"></a>
-	
 </div>
 
 ### Non-Governmental Organization (NGO) Partners
@@ -36,5 +35,6 @@ type = "page"
 	<a class="inlineBlock" href="http://we-gov.org/"><img alt="WeGO" src="/GCTC/uploads/2017/06/09/WeGo_NG.png"></a>
 	<a class="inlineBlock" href="http://www.jointventure.org/"><img alt="JointVenture" src="/GCTC/uploads/2017/06/09/JointVenture_NG.png"></a>
 	<a class="inlineBlock" href="http://cleantechsandiego.org/"><img alt="CleanTech" src="/GCTC/uploads/2017/06/09/CleanTech_NG.png"></a>
-	
+
+<a class="inlineBlock" href="http://atis.org/"><img src="/GCTC/uploads/2017/06/16/atis.png"></a>
 </div>

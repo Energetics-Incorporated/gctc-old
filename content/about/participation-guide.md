@@ -1,7 +1,6 @@
 +++
 categories = []
 date = "2017-04-26T09:44:06-04:00"
-draft = true
 tags = []
 title = "participation guide"
 type = "page"

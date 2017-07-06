@@ -1,7 +1,6 @@
 +++
 categories = []
 date = "2017-04-17T12:43:19-04:00"
-draft = false
 layout = "expo"
 tags = []
 title = "logistics"
@@ -16,9 +15,10 @@ The Global City Teams Challenge Expo 2017 will be held at The Walter E. Washingt
 
 ![](/GCTC/uploads/2017/05/04/_0030_exterior-jhph-J2I2063-hires.png)
 
-- - -
+<hr>
+
+Please direct your logistics questions about the Global City Teams Challenge EXPO to Gale Guerrieri at [meetingsguru@gmail.com](mailto:meetingsguru@gmail.com)
 
 For directions to the convention center, click on the link below.
 
 <a class="customBtn2" href="http://www.dcconvention.com/Venues/ConventionCenter/DirectionsAndParking.aspx" target="_blank">Directions</a>
-

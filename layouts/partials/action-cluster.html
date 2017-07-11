@@ -1,0 +1,16 @@
+	<script id="datatable-template" type="text/x-handlebars-template">
+		{{`{{#each elements}}`}}
+            <tr>				
+<td class="Sector" data-title="Sector:" style="display:none;">{{`{{Sector}}`}}</td>
+<td class="ActionCluster" data-title="Action-Cluster:"><strong>Action Cluster:</strong> {{`{{Action-Cluster}}`}}</td>
+<td class="Year" data-title="Year:"><strong>Year:</strong> {{`{{Year}}`}}</td>
+<td class="MuniGov" data-title="Municipal-Governments:"><strong>Municipal Governments</strong> {{`{{Municipal-Governments}}`}}</td>
+<td class="Members" data-title="Members:"><strong>Members:</strong> {{`{{Members}}`}}</td>
+<td class="TeamLead" data-title="Team-Lead-Name:"><strong>Team Lead:</strong> {{`{{Team-Lead-Name}}`}}</td>
+<td class="Description" data-title="Description:"><strong>{{`{{Descriptor}}`}}</strong> {{`{{Description}}`}}</td>
+<td class="Website" data-title="External-Web-Site:">
+	<span class="WebsiteURL">{{`{{enhance External-Web-Site}}`}}</span>
+</td>
+</tr>
+{{`{{/each}}`}}
+</script> 

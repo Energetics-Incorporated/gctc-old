@@ -1,7 +1,7 @@
 +++
 categories = []
 date = "2017-04-17T12:43:14-04:00"
-layout = "expo"
+layout = "exhibitors"
 tags = []
 title = "exhibits"
 type = "page"

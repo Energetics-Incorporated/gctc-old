@@ -60,28 +60,37 @@ googleAnalytics = "UA-98010590-1"
 [[menu.expomenu]]
 	name = "Agenda"
 	url = "/event/gctc-expo-2017/agenda"
-	weight = 1
+	weight = 21
+	
+[[menu.expomenu]]
+	name = "Speakers"
+	url = "/event/gctc-expo-2017/speakers"
+	weight = 22
 	
 [[menu.expomenu]]
 	name = "Exhibits"
 	url = "/event/gctc-expo-2017/exhibit"
-	weight = 2
+	weight = 23
 
 [[menu.expomenu]]
 	name = "Logistics"
 	url = "/event/gctc-expo-2017/logistics"
-	weight = 3
+	weight = 24
 
 [[menu.expomenu]]
 	name = "News"
 	url = "/event/gctc-expo-2017/news"
-	weight = 4
+	weight = 25
 
 [[menu.expomenu]]
-	name = "Expo Presentations"
-	url = "/event/gctc-expo-2017/expo-presentations"
-	weight = 5	
+	name = "Registration"
+	url = "/event/gctc-expo-2017#dcConvention"
+	weight = 26	
 	
+[[menu.expomenu]]
+	name = "Press"
+	url = "/event/gctc-expo-2017/press"
+	weight = 27
 	
 
 [params]

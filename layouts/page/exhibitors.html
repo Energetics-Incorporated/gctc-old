@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {{ partial "head.html" . }}
+  
+  <link href="{{ .Site.BaseURL }}css/jquery.dataTables.min.css" rel="stylesheet">
+<link href="{{ .Site.BaseURL }}css/jquery.dataTables.yadcf.css" rel="stylesheet">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="{{ .Site.BaseURL }}js/tabletop.js"></script>
+<script src="{{ .Site.BaseURL }}js/handlebars-v4.0.5.js"></script>
+<script src="{{ .Site.BaseURL }}js/underscore.js"></script>
+<script src="{{ .Site.BaseURL }}js/jquery.dataTables.min.js"></script>
+<script src="{{ .Site.BaseURL }}js/jquery.dataTables.yadcf.js"></script>
+
+
+<style type="text/css">
+	td.Description {white-space: pre-line;}
+	 
+    .cards tbody tr {
+        float: left;
+        margin: 10px;
+        border: 1px solid #aaa;
+        box-shadow: 1px 1px 2px rgba(0,0,0,0.25);
+        background-color: white;
+    }
+    .cards tbody td {
+        display: block;
+        width: 790px;
+        overflow: hidden;
+        text-align: left;
+    }
+	
+	#searchable-table_filter,
+	.cards thead {display:none;}
+	
+	table.dataTable tbody th, table.dataTable tbody td {padding:6px 20px;}
+	table.dataTable tbody tr { padding: 10px 0;}
+	
+	label {margin-bottom:0; vertical-align: bottom;}
+	
+	.dataTables_wrapper .dataTables_info {
+    float: none;
+    display: inline-block;
+    vertical-align: bottom;
+	margin-right: 10px;
+	}
+	
+	.dataTables_wrapper .dataTables_length {
+    float: none;
+    display: inline-block;
+    vertical-align: bottom;
+	}
+	
+	.paginationWrap {
+    border-top: 1px solid #ccc;
+    padding: 5px 0 20px 0;
+    margin: 15px auto;
+	}
+	
+	.hide {display:none;}
+	
+	.WebsiteURL {font-weight:bold;}
+	.WebsiteURL a {font-weight:normal;}
+	
+		
+	@media (min-width: 1080px){
+	 .cards tbody td {width: 1000px;}
+	}
+		
+	@media (max-width: 768px){
+	 .cards tbody td {width: 86vw;}
+	}
+	
+
+	
+</style>
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          {{ partial "exponav.html" . }}
+
+        </header>
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+            {{ if isset .Params "id" }}
+
+              {{ partial .Params.id . }}
+
+            {{ else }}
+
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-md-12">
+						
+                        <div>
+                          {{ .Content }}						  
+                        </div>
+						
+						<div>
+							<button id="btnTransportation">Transportation</button>
+							<button id="btnPublichHealth">Public Health &amp; Safety</button>
+							<button id="btnEnergyWater">Energy, Water, &amp; Environment</button>
+							<button id="btnInfrasctructure">Infrastructure</button>
+							<button id="btnDataTech">Data/Technology Platforms</button>
+							<button id="btnUrban">Urban Planning</button>
+						</div>
+						<!--<div>
+							<button id="btn2017">2017</button>
+							<button id="btn2016">2016</button>
+						</div> -->
+						
+						<h2 id="sectorHead">All Sectors</h2>
+						
+						<table id="searchable-table" cellpadding="5" cellspacing="0" border="0" width="100%"  class="cards">
+		<thead>
+			<tr>
+				<th class="Sector">Sector</th>
+				<th class="ActionCluster">Action Cluster</th>
+				<th class="Year">Year</th>
+				<th class="MuniGov">Municipal Governments</th>
+				<th class="Members">Members</th>
+				<th class="TeamLead">Team Lead Name</th>
+				<th class="Description">Description</th>
+				<th class="Website">External Website</th>				
+			</tr>
+		</thead>
+		<tbody id="content">
+		</tbody>
+		<tfoot id="selectColumns">
+			<tr>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th></th>
+				
+			</tr>
+		</tfoot>
+	</table>
+	
+	{{ partial "action-cluster.html" . }}
+	
+	<script src="{{ .Site.BaseURL }}js/datatable-tabletop-load-exhibits.js"></script> 
+	<script type="text/javascript">
+
+Handlebars.registerHelper('cleanConcat', function() {
+        var argument        = null;
+        var data            = null;
+        var cleanedString   = '';
+        var cleanedStrings  = [];
+
+        for ( var i = 0; i < arguments.length; ++i ) {
+            argument = arguments[ i ];
+
+            // Handlebars passes in extra arguments, so you can't just loop through
+            // arguments itself
+            if ( typeof argument === 'object' && argument.name === 'cleanConcat' ) {
+                data = argument.data.root;
+
+                for ( var prop in data ) {
+
+                    // You can do any type of cleaning that you want here.
+                    // As an example I forced each string to lower case and replaced spaces with a "-"
+                    cleanedString = data[ prop ].toLowerCase().replace( /\s/g, '-' );
+                    cleanedStrings.push( cleanedString );
+                }
+                return cleanedStrings.join( '-' );
+            }
+        }
+    });
+	
+Handlebars.registerHelper('breaklines', function(text) {
+    text = Handlebars.Utils.escapeExpression(text);
+    text = text.replace(/(\r\n|\n|\r)/gm, '<br>');
+    return new Handlebars.SafeString(text);
+});	
+
+Handlebars.registerHelper('wrapURL', function(str) {
+    str = Handlebars.Utils.escapeExpression(str);
+
+    var matches = str.match(/http\S+/);
+    var wrapped = matches.map(function(v, i, a) {
+        return '<a href="' + v + '">' + v + '</a>';
+    });
+
+    for (var i = 0; i < matches.length; i++) {
+        str = str.replace(matches[i], wrapped[i]);
+    }
+
+    return new Handlebars.SafeString(str)
+});
+
+
+(function(){
+    // defines markup enhancement regex
+    var protocol = /(\b(https?|ftp):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/gim
+      , scheme   = /(^|[^\/])(www\.[\S]+(\b|$))/gim;
+			
+    /*
+     * Registers a Helper method with handlebars which, given a string of
+     * plain text or existing markup, provides enhancements of plain text 
+     * URLs, converting them to their respective anchor tag equivilents.=
+     */
+    Handlebars.registerHelper('enhance', function(text) {
+	text = text.replace( protocol, '<a href="$1" target="_blank">$1</a>');
+	text = text.replace( scheme,   '$1<a href="http://$2" target="_blank">$2</a>' );
+	return new Handlebars.SafeString( text );
+    });
+}());
+
+$('#btnTransportation').on('click', function () {
+        oTable.columns(0).search("Transportation" ).draw();
+		$("#sectorHead").html("Transportation");
+    }); 
+$('#btnPublichHealth').on('click', function () {
+        oTable.columns(0).search("Public Health & Safety" ).draw();
+		$("#sectorHead").html("Public Health & Safety");
+    }); 
+$('#btnEnergyWater').on('click', function () {
+        oTable.columns(0).search("Energy, Water & Environment" ).draw();
+		$("#sectorHead").html("Energy, Water & Environment");
+    }); 
+$('#btnInfrasctructure').on('click', function () {
+        oTable.columns(0).search("Infrastructure" ).draw();
+		$("#sectorHead").html("Infrastructure");
+    }); 
+$('#btnDataTech').on('click', function () {
+        oTable.columns(0).search("Data/Technology Platforms" ).draw();
+		$("#sectorHead").html("Data/Technology Platforms");
+    }); 	
+$('#btnUrban').on('click', function () {
+        oTable.columns(0).search("Urban Planning" ).draw();
+		$("#sectorHead").html("Urban Planning");
+    }); 	
+/*	
+$('#btn2017').on('click', function () {
+        oTable.columns(2).search("2017" ).draw();
+    }); 
+$('#btn2016').on('click', function () {
+        oTable.columns(2).search("2016" ).draw();
+    });
+*/
+
+	
+
+</script>
+
+
+                    </div>
+
+                </div>
+                <!-- /.row -->
+
+            </div>
+            <!-- /.container -->
+
+            {{ end }}
+        </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+{{ partial "scripts2.html" . }}
+
+
+  </body>
+</html>
